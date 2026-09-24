@@ -1,2 +1,4 @@
 # Cloud-Moisture-Manager
-will do later...
+if(Khoi){
+Terrence
+}
